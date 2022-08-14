@@ -1,4 +1,8 @@
-# Practica-administracion-de-sistemas
+# Práctica obligatoria de Administración de Sistemas
+
+En el repo se encuentra la práctica obligatoria de la asignatura de Administración de Sistemas del 3er curso de Ingeniería Informática de la Universidad de Salamanca
+
+Se encuentra la memoria a realizar, el enunciado y los scripts que son necesarios para la realización de la práctica
 
 
 <table>
